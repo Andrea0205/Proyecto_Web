@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    margin: 0px;
+    padding: opx;
+}
+
+.container{
+    display: flex;
+    flex-direction:column;
+}
+header{
+    height: 5em;
+    align-items: center; 
+    justify-content: center;
+    display: flex;
+    flex:80%;
+    background-color: #0a2342;
+    color: #ffff;
+}
+.Formulario{
+    flex: 30%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+form{
+    
+    align-items: center;
+}
